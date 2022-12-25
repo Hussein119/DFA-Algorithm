@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\SW Engineering\Fifth term\Automata and language theory\DFA Algorithm\DFA Algorithm\Source.cpp(21,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\SW Engineering\Fifth term\Automata and language theory\DFA Algorithm\DFA Algorithm\Source.cpp(20,22): warning C4101: 'k': unreferenced local variable
+  DFA Algorithm.vcxproj -> D:\SW Engineering\Fifth term\Automata and language theory\DFA Algorithm\x64\Debug\DFA Algorithm.exe
